@@ -524,10 +524,12 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 }
 
 /* testimorial */
+
+/* 
 .testimonials {
     margin: 3rem;
 
-}
+} */
 
 .testimonial {
     display: flex;
